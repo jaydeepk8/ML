@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Large datasets (keep locally, don't commit)
+Supervised Learning/dataset/creditcard.csv
