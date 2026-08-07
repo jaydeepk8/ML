@@ -2,5 +2,5 @@
 __pycache__/
 *.pyc
 
-# Large datasets (keep locally, don't commit)
+# Large datasets
 Supervised Learning/dataset/creditcard.csv
