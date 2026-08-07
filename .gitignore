@@ -2,5 +2,5 @@
 __pycache__/
 *.pyc
 
-# Large datasets
-Supervised Learning/dataset/creditcard.csv
+# Large datasets (>100MB, exceeds GitHub limit)
+**/creditcard.csv
